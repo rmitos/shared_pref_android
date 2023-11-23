@@ -1,7 +1,8 @@
 name: shared_pref_android
 description: Flutter plugin for Android shared preferences.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rmitos/shared_pref_android.git
+publish_to: none
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
